@@ -1,12 +1,25 @@
 body {
 
     background: black;
-    color: red;
+    color: rgb(255, 0, 200);
 }
 
 header {
-    text-align: center;
     font-size: 50px;
-    border-bottom: solid 3px red;
+    border-bottom: solid 3px purple;
+    margin: 30;
+    margin-left: 3;
+    margin-right: 80%;
+}
+
+p{
+    color: red;
+
+
+}
+
+h1{
+    color: red;
+
 
 }
