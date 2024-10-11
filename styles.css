@@ -3,3 +3,8 @@ body {
     background: black;
     color: red;
 }
+
+header {
+      text-align: center;
+    font-size: 35px;
+}
