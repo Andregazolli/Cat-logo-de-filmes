@@ -2,6 +2,7 @@ body {
 
     background: black;
     color: rgb(255, 0, 200);
+    margin: 0;
 }
 
 header {
@@ -27,5 +28,7 @@ h1{
 section{
     display: flex;
     background-color: midnightblue;
-
+    padding-bottom: 80px;
+    padding-top: 70px;
+    margin-top: 20px;
 }
