@@ -44,7 +44,7 @@ h1{
 img {
     width: 150px;
     height: 200px;
-
+    opacity: o.6;
 }
 .outrasRecomendacao {
     justify-content: center;
@@ -52,7 +52,7 @@ img {
 
 }
 
-.outrasRecomendacao h2 {
+.h2 {
     text-align: center;
     font-size: 20px;
     color: aqua;
@@ -67,14 +67,10 @@ img {
 
 }
 
-.outrasRecomendacao img {
-    opacity: o.6;
 
-
-}
-
-.outrasRecomendacao img:hover {
+img:hover {
 opacity: 1.0;
 border: solid 2px white;
+
 
 }
